@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1706303698 source:/mnt/omv1share1/Workspace/CapGainCF/CapGainCF.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdarg.h>
+	<string.h>
+	<getopt.h>
+
